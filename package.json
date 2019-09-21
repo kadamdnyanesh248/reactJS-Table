@@ -1,0 +1,22 @@
+{
+  "name": "reactjs-table",
+  "version": "1.0.0",
+  "description": "This npm package help you to make your table dynamic by mapping array data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadamdnyanesh248/reactJS-Table.git"
+  },
+  "keywords": [
+    "reactJS-Table"
+  ],
+  "author": "Manisha K. Kharare and Dnyaneshwar V. Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadamdnyanesh248/reactJS-Table/issues"
+  },
+  "homepage": "https://github.com/kadamdnyanesh248/reactJS-Table#readme"
+}

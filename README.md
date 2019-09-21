@@ -1,7 +1,9 @@
 
 ## Documentation
 
-- [Installation](./docs/installation.md) - Go through how to install ReactJS-Table
+This package is made by Miss. Manisha K. Kharare and supported by Mr. Dnyaneshwar V. Kadam
+
+- [Installation](./docs/installation.md) - Please go through how to install ReactJS-Table
 - [Concepts](./docs/concepts.md) - Read how ReactJS-Table works and how you can use it better
 - [Examples](./docs/examples.md) - Experience and learn from some examples and guides of how to use React Table and implement common patterns.
 - [API](./docs/api.md) - Get to know React Table's API, how to use it and how to extend its functionality
