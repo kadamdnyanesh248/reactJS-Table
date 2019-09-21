@@ -1,6 +1,6 @@
 {
   "name": "reactjs-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm package help you to make your table dynamic by mapping array data.",
   "main": "index.js",
   "scripts": {
